@@ -1,4 +1,3 @@
-<a href="https://chat.vercel.ai/">
 
 ## Features
 
