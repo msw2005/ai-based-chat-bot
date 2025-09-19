@@ -85,7 +85,7 @@ function PureArtifactActions({
     </div>
   );
 }
-
+// export function
 export const ArtifactActions = memo(
   PureArtifactActions,
   (prevProps, nextProps) => {
