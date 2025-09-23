@@ -12,7 +12,7 @@ App Router
   - Component primitives from [Radix UI](https://radix-ui.com) for accessibility and flexibility
 - Data Persistence
    for saving chat history and user data
-for efficient file storage
+for efficient file storage,
 
   - Simple and secure authentication
 
