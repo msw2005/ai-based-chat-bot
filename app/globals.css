@@ -1,7 +1,7 @@
 /* set base path to root directory to include utility classes from app, components, pages, etc. */
 @import "tailwindcss" source("..");
 
-/* include utility classes in streamdown */
+/* include utility classes in streamdown  */
 @source '../node_modules/streamdown/dist/index.js';
 
 /* custom variant for setting dark mode programmatically */
