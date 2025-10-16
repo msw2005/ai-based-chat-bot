@@ -5,7 +5,7 @@ App Router
   - Advanced routing for seamless navigation and performance,
   - React Server Components (RSCs) and Server Actions for server-side rendering and increased performance;
   - Unified API for generating text, structured objects, and tool calls with LLMs,
-  - Hooks for building dynamic chat and generative user interfaces.
+  - Hooks for building dynamic chat and generative user interfaces,
   - Supports xAI (default), OpenAI, Fireworks, and other model providers.
 
   - Styling with [Tailwind CSS](https://tailwindcss.com)
