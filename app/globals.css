@@ -1,4 +1,4 @@
-/* set base path to root directory to include utility classes from app, components, pages, etc. */
+/* set base path to root directory to include utility classes from app, components, xpages, etc. */
 @import "tailwindcss" source("..");
 
 /* include utility classes in streamdown  */
