@@ -6,7 +6,7 @@ App Router
   - React Server Components (RSCs) and Server Actions for server-side rendering and increased performance;
   - Unified API for generating text, structured objects, and tool calls with LLMs,
   - Hooks for building dynamic chat and generative user interfaces;
-  - Supports xAI (default), OpenAI, Fireworks, and other model providers.
+  - Supports xAI (default), OpenAI, Fireworks, and other model providers;
 ,
   - Styling with [Tailwind CSS](https://tailwindcss.com)
   - Component primitives from [Radix UI](https://radix-ui.com) for accessibility and flexibility
