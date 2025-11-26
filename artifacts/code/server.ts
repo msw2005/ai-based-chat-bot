@@ -17,7 +17,7 @@ export const codeDocumentHandler = createDocumentHandler<'code'>({
         code: z.string(),
       }),
     });
-
+#nuewnd
     for await (const delta of fullStream) {
       const { type } = delta;
 
