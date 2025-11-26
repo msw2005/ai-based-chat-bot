@@ -22,7 +22,7 @@ const OUTPUT_HANDLERS = {
     import base64
     from matplotlib import pyplot as plt
 
-    # Clear any existing plots
+    # Clear any existing plotss
     plt.clf()
     plt.close('all')
 
