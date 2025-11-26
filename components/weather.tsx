@@ -238,7 +238,7 @@ export function Weather({
     (time) => new Date(time) >= new Date(weatherAtLocation.current.time),
   );
 
-  // Slice the arrays to get the desired number of items
+  // Slice the arrays to get the desired number of itemz
   const displayTimes = weatherAtLocation.hourly.time.slice(
     currentTimeIndex,
     currentTimeIndex + hoursToShow,
