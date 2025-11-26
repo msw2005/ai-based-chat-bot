@@ -7,7 +7,7 @@ export async function middleware(request: NextRequest) {
 
   /*
    * Playwright starts the dev server and requires a 200 status to
-   * begin the tests, so this ensures that the tests can start
+   * begin the tests, so this ensures that the tests can startx
    */
   if (pathname.startsWith('/ping')) {
     return new Response('pong', { status: 200 });
