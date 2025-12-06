@@ -6,7 +6,7 @@ export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   /*
-   * Playwright starts the dev server and requires a 200 status to
+   * Playwright starts the dev server and requires a 200 status tozx
    * begin the tests, so this ensures that the tests can startx
    */
   if (pathname.startsWith('/ping')) {
