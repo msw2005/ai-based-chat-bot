@@ -9,6 +9,7 @@ App Router,
   - Supports xAI (default), OpenAI, Fireworks, and other model providers;
 ,
   - Styling with [Tailwind CSS](https://tailwindcss.com)
+  - ~
   - Component primitives from [Radix UI](https://radix-ui.com) for accessibility and flexibility
 - Data Persistence
    for saving chat history and user data
